@@ -1,0 +1,11 @@
+# competition data (do not redistribute)
+data/
+Train.csv
+Test.csv
+SampleSubmission.csv
+economic_indicators.csv
+
+test_probabilities.csv
+.ipynb_checkpoints/
+__pycache__/
+.venv/
